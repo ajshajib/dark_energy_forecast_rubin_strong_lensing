@@ -1,1 +1,1 @@
-# dark_energy_strong_lensing_forecast
+# Dark Energy forecast for Rubin strong lensing probes
