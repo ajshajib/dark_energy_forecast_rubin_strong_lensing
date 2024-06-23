@@ -1,3 +1,8 @@
+"""
+This file provides the kwargs to run cosmological sampling with the lensed SNIa sample from Birrer, Dhawan, and Shajib (2022).
+This code is adopted from https://github.com/sibirrer/glSNe/blob/main/Notebooks/forecast_glSNe.ipynb.
+"""
+
 import numpy as np
 import pickle
 import os
