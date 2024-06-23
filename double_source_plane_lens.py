@@ -1,3 +1,7 @@
+"""
+This file provides the kwargs to run cosmological sampling with the double-source-plane lenses from Sharma, Collett, and Linder (2023). 
+"""
+
 import pandas as pd
 
 from hierarc.Sampling.ParamManager.cosmo_param import CosmoParam
