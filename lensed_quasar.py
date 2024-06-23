@@ -1,6 +1,6 @@
 """
 This file provides the kwargs to run cosmological sampling with the lensed quasar sample from Taak and Treu (2023). 
-This code is adopted largely from https://github.com/sibirrer/TDCOSMO_forecast/blob/master/forecast.ipynb.
+This code is adopted largely from https://github.com/sibirrer/TDCOSMO_forecast.
 """
 
 import numpy as np
